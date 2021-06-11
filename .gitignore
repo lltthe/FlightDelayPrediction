@@ -1,0 +1,7 @@
+/.ipynb_checkpoints
+/model_NN
+/NN-tuning
+/original_data
+/*.csv
+/*.pdf
+/*.doc*
